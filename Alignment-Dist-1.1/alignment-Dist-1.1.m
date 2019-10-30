@@ -1,4 +1,4 @@
-  (* 
+   (* 
 In this lab, you will implement the Smith-Waterman algorithm for local alignment of
 two DNA sequences. 
 
